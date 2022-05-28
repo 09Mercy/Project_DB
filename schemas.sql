@@ -14,3 +14,5 @@ CREATE TABLE administrador (
 CREATE TABLE vendedores (
 
 );
+
+victor
